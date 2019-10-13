@@ -1,1 +1,11 @@
-/UpDownFlyer.sln
+.idea
+*.sln
+Logs
+Library
+Temp
+obj
+.DS_Store
+*.csproj
+Build
+tools
+.vs
